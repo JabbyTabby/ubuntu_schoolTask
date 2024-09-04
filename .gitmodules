@@ -1,0 +1,3 @@
+[submodule "telefonkatalog_og_database"]
+	path = telefonkatalog_og_database
+	url = https://github.com/LektorRichvoldsen/telefonkatalog_og_database
